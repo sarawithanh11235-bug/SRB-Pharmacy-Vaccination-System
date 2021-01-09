@@ -1,2 +1,2 @@
-# SRB-Pharmacy-Vaccination-System
-SRB-Pharmacy-Vaccination-System
+# Pharmacy-Vaccination-System-Java
+Pharmacy Vaccination System Java
