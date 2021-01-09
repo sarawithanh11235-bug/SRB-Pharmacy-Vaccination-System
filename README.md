@@ -1,4 +1,4 @@
-# Pharmacy-Vaccination-System
+# SRB-Pharmacy-Vaccination-System
 
 Tech Stack:        Java & Eclipse IDE,
 Date:              May 2020,
