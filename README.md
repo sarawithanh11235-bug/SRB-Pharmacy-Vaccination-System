@@ -1,2 +1,3 @@
-# Pharmacy-Vaccination-System-Java
-Pharmacy Vaccination System Java
+# Pharmacy-Vaccination-System-
+
+Tech Stack: Java & Eclipse IDE
